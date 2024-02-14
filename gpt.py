@@ -2,6 +2,7 @@ import base64
 import random
 import requests
 from PIL import Image
+import os
 
 prompt_file = open('./prompt.txt', 'r')
 GPT4_PROMPT = prompt_file.read()
