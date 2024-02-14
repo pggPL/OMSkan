@@ -1,0 +1,6 @@
+Na załączonym obrazku są 3 pola: z kodem okręgu – składa się on z w wielkich liter np. "TO" czy "GD" i tym podobne.
+Poniżej jest pole na numer zawodnika, który jest liczbą całkowitą. Czasem uczestnicy wpisują tam też kod okręgu w postaci "XY12",
+ale wtedy zignrouj kod okręgu i przejmuj się tylko liczbą.
+Poniżej jest pole na numer zadania, który jest liczbą od 1 do 6.
+Odczytaj te rzeczy i zapis w postaci kod_okregu, numer_zawodnika, numer_zadania i nie wypisuj nic innego. Na przykład
+możesz zwrócić "WA, 3, 4".
